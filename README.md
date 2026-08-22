@@ -25,11 +25,7 @@ To analyze sales data, identify business trends, monitor key performance indicat
 * Order Analysis
 * KPI Monitoring
 * Interactive Filtering and Slicers
-
-## Dashboard Preview
-
-![Sales Analysis Dashboard](screenshota/sales-analysis-dashboard.png)
-
+* 
 ## Key Skills Demonstrated
 
 **Data Cleaning | Data Transformation | Data Analysis | DAX | Data Visualization | Dashboard Development | Business Intelligence | KPI Analysis**
